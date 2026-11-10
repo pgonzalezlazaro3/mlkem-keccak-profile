@@ -1,0 +1,6 @@
+Date: 2026-11-10 16:56
+liboqs: 0.16.0
+OS: Darwin 27.0.0
+Machine: arm64
+CPU: Apple M4 Pro
+Compiler: Apple clang version 17.0.0 (clang-1700.4.4.1)

@@ -1,0 +1,10 @@
+build,algorithm,operation,us_per_op,us_per_op_with_timers,keccak_us_per_op,keccak_calls_per_op,keccak_share,amdahl_bound,timer_overhead
+portable,ML-KEM-512,keygen,7.6606,7.6287,3.9912,9.0,0.5226,2.0945,-0.0042
+portable,ML-KEM-512,encaps,7.6175,7.6175,4.3939,11.0,0.5766,2.3621,0.0000
+portable,ML-KEM-512,decaps,8.7760,8.9610,5.3599,12.0,0.5960,2.4750,0.0211
+portable,ML-KEM-768,keygen,12.8139,12.8405,6.4889,22.1,0.5049,2.0198,0.0021
+portable,ML-KEM-768,encaps,11.0937,11.4402,6.3969,22.0,0.5606,2.2756,0.0312
+portable,ML-KEM-768,decaps,12.6889,12.8812,7.5856,23.0,0.5890,2.4332,0.0152
+portable,ML-KEM-1024,keygen,19.5600,20.0716,9.8540,28.1,0.4904,1.9623,0.0262
+portable,ML-KEM-1024,encaps,16.3208,17.0285,9.9225,29.0,0.5827,2.3964,0.0434
+portable,ML-KEM-1024,decaps,18.8465,19.2560,11.6100,30.0,0.6027,2.5167,0.0217

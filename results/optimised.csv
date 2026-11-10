@@ -1,0 +1,10 @@
+build,algorithm,operation,us_per_op,us_per_op_with_timers,keccak_us_per_op,keccak_calls_per_op,keccak_share,amdahl_bound,timer_overhead
+optimised,ML-KEM-512,keygen,5.7266,5.6769,4.5107,9.0,0.7931,4.8338,-0.0087
+optimised,ML-KEM-512,encaps,5.3445,5.5093,4.0851,10.0,0.7415,3.8682,0.0308
+optimised,ML-KEM-512,decaps,6.2798,6.4163,4.8467,11.0,0.7555,4.0903,0.0217
+optimised,ML-KEM-768,keygen,7.9267,8.1447,6.5203,22.1,0.8012,5.0290,0.0275
+optimised,ML-KEM-768,encaps,8.3429,8.5820,6.4570,22.0,0.7521,4.0345,0.0287
+optimised,ML-KEM-768,decaps,9.7048,9.9600,7.5962,23.0,0.7627,4.2140,0.0263
+optimised,ML-KEM-1024,keygen,11.8298,12.1099,9.7653,28.2,0.8064,5.1646,0.0237
+optimised,ML-KEM-1024,encaps,12.8710,13.2034,10.1859,29.0,0.7715,4.3765,0.0258
+optimised,ML-KEM-1024,decaps,15.0061,15.3829,11.7993,30.0,0.7673,4.2967,0.0251
